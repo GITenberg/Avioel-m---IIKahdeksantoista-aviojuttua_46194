@@ -1,0 +1,45 @@
+_repo: Avioel-m---IIKahdeksantoista-aviojuttua_46194
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Lehtonen, Joel
+    birthdate: 1881
+    deathdate: 1934
+    gutenberg_agent_id: '5996'
+    url: http://www.gutenberg.org/2009/agents/5996
+    wikipedia:
+    - http://fi.wikipedia.org/wiki/Joel_Lehtonen
+    - http://en.wikipedia.org/wiki/Joel_Lehtonen
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Strindberg, August
+    alias: Strindberg, Johan August
+    birthdate: 1849
+    deathdate: 1912
+    gutenberg_agent_id: '1609'
+    url: http://www.gutenberg.org/2009/agents/1609
+    wikipedia: http://en.wikipedia.org/wiki/August_Strindberg
+description: Translations of stories from Giftas.
+gutenberg_issued: '2014-07-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46194'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Swedish -- Translations into Finnish'
+- !lcc 'PT'
+- !lcsh 'Sweden -- Fiction'
+- !lcsh 'Marriage -- Fiction'
+tableOfContents: Johdanto -- Post-Scriptum -- Syksy -- Leivän puute -- Lapsi -- Rikollinen
+  luonto -- Maksua vastaan -- Ilman vihkimistä ja vihittyinä -- Kaksintaistelu --
+  Paripuolet -- Ei riitä -- Eräs nukkekoti -- Vahvempi -- Kuten kyyhkyt -- Hänen runonsa
+  -- Vanua, vanua! -- Afääriä -- Taikauskoa -- Hänen piikansa eli debet ja kredit
+  -- Perheen elättäjä.
+title: 'Avioelämää 2: Kahdeksantoista aviojuttua'
+url: http://www.gutenberg.org/ebooks/46194
